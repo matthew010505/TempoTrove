@@ -1,0 +1,100 @@
+h1{
+    font-family: 'Kablammo', cursive;
+    color: aliceblue;
+    text-align: center;
+    font-size: 50px;
+}
+body{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/002/104/953/original/smoke-on-a-black-background-free-photo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+
+.list{
+    margin: 10% 10%;
+  }
+  .series {
+    outline: none;
+    border: 10px solid black;
+    font-size: 0%;
+    font-family: 'Arvo', cursive;
+    line-height: 2;
+    font-weight: 900;
+    color: whitesmoke;
+    text-shadow: 3px 0 #DBEDF3;
+    border-radius: 100px;
+    display: inline-block;
+    width: 170px;
+    height: 170px;
+    text-align: center;
+    margin: 30px;
+    background-color: white;
+    cursor: pointer;
+  }
+.pw{
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/012/941/492/large/prakhar-shukla-paul.jpg?1537290206");
+    background-size: cover;
+    background-position: center center;
+}
+.tc{
+    background-image: url("https://i1.sndcdn.com/avatars-uB8W77iA5Zz1iX5v-7lgSwg-t500x500.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+.rdj{
+    background-image: url("https://i.pinimg.com/originals/dc/6a/34/dc6a346c4e0353bf3fd0803faad5ead0.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+.dom{
+    background-image: url("https://cdn.wallpapersafari.com/24/81/evoED2.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+.matthew{
+    background-image: url("https://images.justwatch.com/poster/449990/s718/interstellar.%7Bformat%7D");
+    background-size: cover;
+    background-position: center center;
+    
+}
+.batman{
+    background-image: url("https://picfiles.alphacoders.com/360/thumb-360100.jpg");
+    background-size: cover;
+    background-position: center center;
+    
+}
+.tate{
+    background-image: url("https://cdn-wp.thesportsrush.com/2023/04/9b29629e-untitled-design-2023-04-19t112058.305.jpg?w=3840&q=60");
+    background-size: cover;
+    background-position: center center;
+    
+
+}
+.jacksparrow{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/614/396/934/captain-jack-sparrow-johnny-depp-pirates-of-the-caribbean-dead-men-tell-no-tales-wallpaper-preview.jpg");
+    background-size: cover;
+    background-position: center center;
+
+}
+.heist{
+    background-image: url("https://w0.peakpx.com/wallpaper/547/1017/HD-wallpaper-money-heist-ei-professor-profile-whatsapp-dp.jpg");
+    background-size: cover;
+    background-position: center center;
+
+}
+.hukum{
+    background-image: url("https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/748680-hukum-three_four.jpg?VersionId=helyHPHWgAM4XV_cixrp4PqAnBiz21HM");
+
+    background-size: cover;
+    background-position: center center;
+
+
+
+
+}
+
+
+
+
